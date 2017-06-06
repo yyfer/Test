@@ -3,6 +3,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+!/test
+/test/*
+!/test/dist
+
+dist/*.txt
+
 # Package Files #
 *.jar
 *.war
